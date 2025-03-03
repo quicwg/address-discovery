@@ -17,6 +17,7 @@
 /versioned/
 Gemfile.lock
 archive.json
+draft-ietf-quic-address-discovery.xml
 draft-seemann-quic-address-discovery.xml
 package-lock.json
 report.xml
