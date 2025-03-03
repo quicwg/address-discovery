@@ -1,8 +1,8 @@
 # QUIC Address Discovery
 
-This is the working area for the IETF QUICworking group Internet-Draft, "QUIC Address Discovery".
+This is the working area for the IETF QUIC working group Internet-Draft, "QUIC Address Discovery".
 
-* [Editor's Copy](https://quicwg.github.io/draft-ietf-quic-address-discovery/#go.draft-ietf-quic-address-discovery.html)
+* [Editor's Copy](https://quicwg.github.io/address-discovery/#go.draft-ietf-quic-address-discovery.html)
 * [Datatracker Page](https://datatracker.ietf.org/doc/draft-ietf-quic-address-discovery)
 * [Individual Draft](https://datatracker.ietf.org/doc/html/draft-ietf-quic-address-discovery)
 * [Compare Editor's Copy to Individual Draft](https://quicwg.github.io/address-discovery/#go.draft-ietf-quic-address-discovery.diff)
