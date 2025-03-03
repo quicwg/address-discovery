@@ -3,7 +3,7 @@ title: "QUIC Address Discovery"
 abbrev: "QUIC Address Discovery"
 category: std
 
-docname: draft-seemann-quic-address-discovery-latest
+docname: draft-ietf-quic-address-discovery-latest
 submissiontype: IETF  # also: "independent", "editorial", "IAB", or "IRTF"
 number:
 date:
@@ -20,8 +20,8 @@ venue:
   type: "Working Group"
   mail: "quic@ietf.org"
   arch: "https://mailarchive.ietf.org/arch/browse/quic/"
-  github: "marten-seemann/draft-seemann-quic-address-discovery"
-  latest: "https://marten-seemann.github.io/draft-seemann-quic-address-discovery/draft-seemann-quic-address-discovery.html"
+  github: "quicwg/address-discovery"
+  latest: "https://quicwg.github.io/address-discovery/draft-ietf-quic-address-discovery.html"
 stand_alone: yes
 smart_quotes: no
 pi: [toc, sortrefs, symrefs]
