@@ -1,6 +1,6 @@
 {
   "magic": "E!vIA5L86J2I",
-  "timestamp": "2025-03-04T00:01:22.103160+00:00",
+  "timestamp": "2025-03-06T00:37:52.833707+00:00",
   "repo": "quicwg/address-discovery",
   "labels": [
     {
@@ -1857,26 +1857,42 @@
       "id": "PR_kwDOKhxVW86NN6z_",
       "title": "Very minor typo fix",
       "url": "https://github.com/quicwg/address-discovery/pull/45",
-      "state": "OPEN",
+      "state": "MERGED",
       "author": "hawkinsw",
       "authorAssociation": "CONTRIBUTOR",
       "assignees": [],
       "labels": [],
       "body": "Minor misspelling correction.",
       "createdAt": "2025-03-03T22:26:25Z",
-      "updatedAt": "2025-03-03T22:26:25Z",
+      "updatedAt": "2025-03-04T03:43:09Z",
       "baseRepository": "quicwg/address-discovery",
       "baseRefName": "main",
       "baseRefOid": "ca31166a4b315ea14ccf6bc6cb397cd2ab7a6fa5",
       "headRepository": "hawkinsw/draft-seemann-quic-address-discovery",
       "headRefName": "patch-2",
       "headRefOid": "6ee75a8141e356e53828385b85f35ab7f3d34727",
-      "closedAt": null,
-      "mergedAt": null,
-      "mergedBy": null,
-      "mergeCommit": null,
+      "closedAt": "2025-03-04T03:43:09Z",
+      "mergedAt": "2025-03-04T03:43:09Z",
+      "mergedBy": "marten-seemann",
+      "mergeCommit": {
+        "oid": "f60a162c4634a297a741edd419c251262900fe30"
+      },
       "comments": [],
-      "reviews": []
+      "reviews": [
+        {
+          "id": "PRR_kwDOKhxVW86eTQiU",
+          "commit": {
+            "abbreviatedOid": "6ee75a8"
+          },
+          "author": "marten-seemann",
+          "authorAssociation": "COLLABORATOR",
+          "state": "APPROVED",
+          "body": "",
+          "createdAt": "2025-03-04T03:42:59Z",
+          "updatedAt": "2025-03-04T03:42:59Z",
+          "comments": []
+        }
+      ]
     }
   ]
 }
